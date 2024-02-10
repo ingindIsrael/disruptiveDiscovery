@@ -1,0 +1,36 @@
+Privacy Policy for Disruptive Discovery
+
+
+Welcome to Disruptive Discovery. This privacy policy outlines our practices concerning the handling of information for the Disruptive Discovery Chrome Extension.
+
+1. Information Collection
+
+Disruptive Discovery does not collect, use, share, or store any personal or sensitive user information through its Chrome extension.
+
+2. Use of Information
+
+As no information is collected, there is no use of information within the Disruptive Discovery extension.
+
+3. Data Sharing and Disclosure
+
+Disruptive Discovery does not share or disclose any user data, simply because we do not collect any.
+
+4. Data Security
+
+Despite not collecting data, Disruptive Discovery is committed to ensuring the security of its extension and user interactions with it.
+
+5. User Rights
+
+Since Disruptive Discovery does not collect user information, there are no specific user rights related to personal data processing applicable within the scope of this extension.
+
+6. Changes to This Privacy Policy
+
+We reserve the right to make changes to this privacy policy at any time. We will notify users of any changes as required by law.
+
+7. Contact Information
+
+For any questions or concerns regarding this privacy policy, please contact us at [Insert Contact Information].
+
+Disclaimer: Disruptive Discovery is not responsible for any indirect, special, incidental, or consequential damages arising out of or in connection with the use of this extension. The functionality is provided "as is" without any warranties of any kind.
+
+Compliance Statement: This privacy policy is in accordance with the requirements set forth by the Chrome Web Store and relevant privacy legislation, including but not limited to GDPR, CCPA, and others, to the extent that they apply to an extension that does not collect personal or sensitive data.
