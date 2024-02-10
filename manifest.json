@@ -1,0 +1,11 @@
+{
+    "name": "Crunchbase API Extension",
+    "version": "1.0.0",
+    "description": "This is an extension to look up Crunchbase data",
+    "manifest_version": 3,
+    "author": "Israel Vasquez",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Crunchbase API"
+    }
+}
