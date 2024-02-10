@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Today's Crunchbase Data</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background-color: #121212;
+            color: #E0E0E0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        h2 {
+            color: #20ACC9;
+        }
+
+        input[type="text"] {
+            padding: 10px;
+            margin: 10px 0;
+            border: none;
+            border-radius: 5px;
+            width: 300px;
+        }
+
+        button {
+            padding: 10px 20px;
+            border: none;
+            background-color: #20ACC9;
+            color: black;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: black;
+            color: white;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+            background: linear-gradient(to top right, #20ACC9, #121212) ;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        input[type="text"] {
+            background-color: #333333;
+            color: #E0E0E0;
+            border: 1px solid #20ACC9;
+        }
+
+        input[type="text"]::placeholder {
+            color: #B0B0B0;
+        }
+
+        /* Adding a subtle shadow to give depth to the elements */
+        input[type="text"], button, li {
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+            
+        }
+        .translucent {
+            opacity: 0.8;
+            background: #121212
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <h2>Search Crunchbase Database</h2>
+       
+        <input type="text" id="startupname" placeholder="Enter the startup name you have in mind">
+        <button id="fetchDataBtn" type="button">Find out if this name exists</button>
+     
+        <ul>
+            <li id="datapoint">
+               <strong>Startup Name:</strong>  Short Description <!-- Dynamically filled content will go here -->
+            </li>  
+        </ul>
+    </div>
+
+</body>
+<script src="script.js"></script>
+
+</html>
